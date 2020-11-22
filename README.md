@@ -1,4 +1,4 @@
-### Hello devs,👋 I'm Suvhradip
+### Hello folks,👋 I'm Suvhradip
 
 <!--
 - 🔭 I’m currently working on ... -->
