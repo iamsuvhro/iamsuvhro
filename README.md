@@ -16,7 +16,7 @@
     <tr>
         <td>
 <a href="https://github.com/sayanmondal31">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmondal31&count_private=true&theme=dark&show_icons=true&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuvhro&count_private=true&theme=dark&show_icons=true&hide_langs_below=1" />
           </td>
         <td rowspan=2>
 </table>
