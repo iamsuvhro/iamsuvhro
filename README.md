@@ -2,7 +2,7 @@
 
 <!--
 - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently working at Seven Media Design as a Web Developer
+- 🌱 I’m currently working at Cuebook as a Data Engineer
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with complex Node model architechture
 - 💬 Ask me about anything...if in my knowledge i'll help you.
