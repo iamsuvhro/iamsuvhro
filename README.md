@@ -8,8 +8,8 @@
 
 ```javascript
 const suvhradip = {
-    role: "Software Engineer",
-    company: "Acuver Consulting",
+    role: "Senior Software Engineer",
+    company: "Corestrat Lab Pvt Ltd",
     location: "India",
     currentFocus: "Backend Development & System Architecture",
     learning: "Complex Node.js Model Architecture",
@@ -20,7 +20,7 @@ const suvhradip = {
 
 ## 💼 Professional Experience
 
-🏢 **Currently Working At:** Acuver Consulting as Software Engineer  
+🏢 **Currently Working At:** Corestrat Lab as Senior Software Engineer  
 🎯 **Current Focus:** Building scalable backend systems and improving architectural patterns  
 🔍 **Seeking Help With:** Complex Node.js model architecture and design patterns  
 
